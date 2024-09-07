@@ -44,3 +44,4 @@ A inclusão de vídeos do YouTube como recurso complementar nos artigos da Wikip
 
 Inicialmente, planejei vincular o site oficial do Fluminense Futebol Clube, atual campeão da competição, para enriquecer o conteúdo. Entretanto, devido a instabilidades técnicas no servidor do clube, optei por omitir o link temporariamente.
 
+https://copalibertadores.vercel.app/
